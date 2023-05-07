@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Report an Issue"
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/report_icon"/>
+
+    <!-- action button for RATEuS -->
+    <item android:title="Rate Us"
+        android:id="@+id/item2"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/rate_icon"/>
+
+    <item android:title="About Us"
+        android:id="@+id/item3"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/about_icon"/>
+
+    <item android:title="Logout"
+        android:id="@+id/item4"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/logout_icon"/>
+
+</menu>

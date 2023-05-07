@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Interfaces">
+        <item>Login</item>
+        <item>Sign Up</item>
+        <item>Home</item>
+        <item>Learning</item>
+        <item>Quiz</item>
+        <item>Performance</item>
+        <item>Feedback</item>
+    </string-array>
+</resources>
